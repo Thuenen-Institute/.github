@@ -1,6 +1,6 @@
 # Johann Heinrich von Thünen Institute
 
-The Thünen Institute is the Federal Research Institute for Rural Areas, Forests and Fishery. Our research aims at developing concepts for a sustainable, ecological and competitive agriculture, food production, forestry, marine fishery and aquaculture. Our almost 1200 employees do research for policy making and the society in 14 specialised institutes spread over Northern Germany.
+The Thünen Institute is the Federal Research Institute for Rural Areas, Forests and Fishery. Our research aims at developing concepts for a sustainable, ecological and competitive agriculture, food production, forestry, marine fishery and aquaculture. Our almost 1200 employees in 15 specialised institutes spread over Northern Germany conduct research to inform policy makers and the society.
 
 ### Primary location  
 Bundesallee 50  
